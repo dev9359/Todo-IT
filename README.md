@@ -9,22 +9,8 @@ Task is a concise to-do list app that can assist you in planning, monitoring, an
 - Task details is stored in a SQLite folder.
 - Database testing done.
 
-Login          |  Register                      | Login with Email & Password              |  Notification Alert
-:----------------------------:|:--------------------------------------:|:----------------------:|:-----------------
-<img src="TodoImage/1st.png" width="200" height="360">  |  <img src = "TodoImage/2nd.png" width="200" height="360">        |  <img src = "TodoImage/3rd.png" width="200" height="360">  | <img src = "TodoImage/4th.png" width="200" height="360">
-#
-Dashboard          |  Added Task                   | After Added Task              |  Swipe Left to Delete The Task 
-:----------------------------:|:--------------------------------------:|:----------------------:|:-----------------
- <img src = "TodoImage/5th.png" width="200" height="360"> |   <img src = "TodoImage/6th.png" width="200" height="360">        | <img src = "TodoImage/7th.png" width="200" height="360">   | <img src = "TodoImage/8th.png" width="200" height="360">
-#
-After Deteled The Task    |  Swipe Right to Update The Task       | After Update The Task     |  Logout
-:----------------------------:|:--------------------------------------:|:----------------------:|:-----------------
- <img src = "TodoImage/9th.png" width="200" height="360"> |   <img src = "TodoImage/10th.png" width="200" height="360">        | <img src = "TodoImage/afterupdate.png" width="200" height="360">   | <img src = "TodoImage/11th.png" width="200" height="360">
-#
-Forget Paasword          |  Rotate the Task 
-:----------------------------:|:--------------------------------------
- <img src = "TodoImage/12th.png" width="200" height="360"> |   <img src = "TodoImage/RotateInterface.PNG" width="360" height="200">
- 
+ <img src = "https://user-images.githubusercontent.com/47654039/113425900-5c02fb00-93f2-11eb-9f1d-17b30c4f2e39.gif" width="200" height="360">
+
 
 
 # Documentation
