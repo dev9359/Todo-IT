@@ -9,8 +9,7 @@ Task is a concise to-do list app that can assist you in planning, monitoring, an
 - Task details is stored in a SQLite folder.
 - Database testing done.
 
- <img src = "https://user-images.githubusercontent.com/47654039/113425900-5c02fb00-93f2-11eb-9f1d-17b30c4f2e39.gif" width="200" height="360">
-<img src = "https://user-images.githubusercontent.com/47654039/113426019-9076b700-93f2-11eb-8abc-8f74d6bc94c2.gif" width="200" height="360">
+ <img src = "https://user-images.githubusercontent.com/47654039/113425900-5c02fb00-93f2-11eb-9f1d-17b30c4f2e39.gif" width="200" height="360"> | <img src = "https://user-images.githubusercontent.com/47654039/113426019-9076b700-93f2-11eb-8abc-8f74d6bc94c2.gif" width="200" height="360">
 <img src = "https://user-images.githubusercontent.com/47654039/113426125-b603c080-93f2-11eb-9132-cba8df090af6.gif" width="200" height="360">
 <img src = "https://user-images.githubusercontent.com/47654039/113426169-ca47bd80-93f2-11eb-8123-a645a01c93aa.gif" width="200" height="360">
 <img src = "https://user-images.githubusercontent.com/47654039/113426247-eba8a980-93f2-11eb-8f97-6c5127e72403.gif" width="200" height="360">
