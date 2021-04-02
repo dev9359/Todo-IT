@@ -28,18 +28,9 @@ Model–view–viewmodel (MVVM) is a software architectural pattern that allows 
 There are 3 parts to the Model-View-ViewModel architecture:-
 
    1. Your app's data layer is called a <b><u>Model</u></b>. The data source is abstracted.
-   2. <b><u>View</u></b> contains the UI of your app. Most often it’s implemented as an Activity or Fragment. View informs ViewModel of user interactions and displays results received from the ViewModel. View should be lightweight and contain zero to very little business logic.
-   3. <b><u>ViewModel</u></b> serves as a bridge between your View and Model. It works with the Model to get and save the data. The View observes and reacts to the data changes exposed by the ViewModel.
+   2. The UI of your app is contained in the <b><u>View</u></b>. It's usually performed as an Operation or a Piece. View notifies ViewModel of user experiences and shows the ViewModel's performance. The vision should be light and involve little or limited business logic.
+   3. Your <b><u>ViewModel</u></b> acts as a connection between your View and your Model. It obtains and saves data in collaboration with the Model. The ViewModel shows data modifications to the ViewModel, which the View detects and responds to.
 
-Here is a typical high-level MVVM app architecture:
+The following is an example of a high-level MVVM app architecture:
 
-<img src="TodoImage/MVVM.png" width="360" height="360">
-
-## License
-Copyright 2021 Pradip, Inc.
-
-Licensed to the Apache Software Foundation (ASF) under one or more contributor license agreements. See the NOTICE file distributed with this work for additional information regarding copyright ownership. The ASF licenses this file to you under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at
-
-http://www.apache.org/licenses/LICENSE-2.0
-
-Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License.
+<img src="https://user-images.githubusercontent.com/47654039/113426805-b5b7f500-93f3-11eb-9988-95b7570232da.png" width="360" height="360">
