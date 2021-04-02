@@ -9,14 +9,15 @@ Task is a concise to-do list app that can assist you in planning, monitoring, an
 - Task details is stored in a SQLite folder.
 - Database testing done.
 
-<h3>Splash Screen</h3><img src = "https://user-images.githubusercontent.com/47654039/113425900-5c02fb00-93f2-11eb-9f1d-17b30c4f2e39.gif" width="200" height="360">  <img src = "https://user-images.githubusercontent.com/47654039/113426019-9076b700-93f2-11eb-8abc-8f74d6bc94c2.gif" width="200" height="360">
-<img src = "https://user-images.githubusercontent.com/47654039/113426125-b603c080-93f2-11eb-9132-cba8df090af6.gif" width="200" height="360">
-<img src = "https://user-images.githubusercontent.com/47654039/113426169-ca47bd80-93f2-11eb-8123-a645a01c93aa.gif" width="200" height="360">
-<img src = "https://user-images.githubusercontent.com/47654039/113426247-eba8a980-93f2-11eb-8f97-6c5127e72403.gif" width="200" height="360">
-<img src = "https://user-images.githubusercontent.com/47654039/113427209-5dcdbe00-93f4-11eb-9790-c800205f8fc3.gif" width="200" height="360">
-<img src = "https://user-images.githubusercontent.com/47654039/113427289-7a69f600-93f4-11eb-8ca1-58f6886dcf7c.gif" width="200" height="360">
-<img src = "https://user-images.githubusercontent.com/47654039/113427390-a5544a00-93f4-11eb-821f-370a5fffd8f0.gif" width="200" height="360">
-<img src = "https://user-images.githubusercontent.com/47654039/113427433-bac97400-93f4-11eb-91a5-97557da26e98.gif" width="200" height="360">
+<h3>Splash Screen</h3><img src = "https://user-images.githubusercontent.com/47654039/113425900-5c02fb00-93f2-11eb-9f1d-17b30c4f2e39.gif" width="200" height="360">
+<h3>Sign Up</h3><img src = "https://user-images.githubusercontent.com/47654039/113426019-9076b700-93f2-11eb-8abc-8f74d6bc94c2.gif" width="200" height="360">
+<h3>Login In</h3><img src = "https://user-images.githubusercontent.com/47654039/113426125-b603c080-93f2-11eb-9132-cba8df090af6.gif" width="200" height="360">
+<h3>Log out</h3><img src = "https://user-images.githubusercontent.com/47654039/113426169-ca47bd80-93f2-11eb-8123-a645a01c93aa.gif" width="200" height="360">
+<h3>New Task</h3><img src = "https://user-images.githubusercontent.com/47654039/113426247-eba8a980-93f2-11eb-8f97-6c5127e72403.gif" width="200" height="360">
+<h3>Update Task</h3><img src = "https://user-images.githubusercontent.com/47654039/113427209-5dcdbe00-93f4-11eb-9790-c800205f8fc3.gif" width="200" height="360">
+<h3>Complete Task</h3><img src = "https://user-images.githubusercontent.com/47654039/113427289-7a69f600-93f4-11eb-8ca1-58f6886dcf7c.gif" width="200" height="360">
+<h3>Delete Complete Task</h3><img src = "https://user-images.githubusercontent.com/47654039/113427390-a5544a00-93f4-11eb-821f-370a5fffd8f0.gif" width="200" height="360">
+<h3>Delete All Tasks</h3><img src = "https://user-images.githubusercontent.com/47654039/113427433-bac97400-93f4-11eb-91a5-97557da26e98.gif" width="200" height="360">
 
 
 
