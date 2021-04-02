@@ -33,4 +33,5 @@ There are 3 parts to the Model-View-ViewModel architecture:-
 
 The following is an example of a high-level MVVM app architecture:
 
-<img src="https://user-images.githubusercontent.com/47654039/113426805-b5b7f500-93f3-11eb-9988-95b7570232da.png" width="360" height="360">
+<img src="https://user-images.githubusercontent.com/47654039/113427047-147d6e80-93f4-11eb-9b4f-55b0b9f2d06a.png" width="400" height="360">
+
