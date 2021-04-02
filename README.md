@@ -32,17 +32,16 @@ Forget Paasword          |  Rotate the Task
 <b>Android Architecture Components</b> are a series of libraries that help you build more scalable, testable, and maintainable applications by allowing you more leverage over data persistence and lifecycle management. To access the program, users must first log in, and all data is displayed for all users. In the future, only the user will be able to display their data, and all entry users will not be able to see the data of other users.
 
 # MVVM
-Model–view–viewmodel (MVVM) is a software architectural pattern that facilitates the separation of the development of the graphical user interface (the view) be it via a markup language or GUI code from the development of the business logic or back-end logic (the model) so that the view is not dependent on any specific model platform. The view model of MVVM is a value converter,meaning the view model is responsible for exposing (converting) the data objects from the model in such a way that objects are easily managed and presented. In this respect, the view model is more model than view, and handles most if not all of the view's display logic.The view model may implement a mediator pattern, organizing access to the back-end logic around the set of use cases supported by the view.
+Model–view–viewmodel (MVVM) is a software architectural pattern that allows the development of the graphical user interface (the view), whether using a markup language or GUI code, to be separated from the development of the business logic or back-end logic (the model), so that the view is independent of the model platform. The MVVM view model is a value converter, which means it's in charge of exposing (converting) data objects from the model in a way that makes them manageable and presentable. In this way, the view model is more model than view, since it is responsible for the bulk, if not all, of the view's display logic.The view model could use a mediator pattern to organize access to the back-end logic around the set of use cases that the view supports.
 There are 3 parts to the Model-View-ViewModel architecture:-
 
-   1. <b><u>Model</u></b> is the data layer of your app. It abstracts the data source.
+   1. Your app's data layer is called a <b><u>Model</u></b>. The data source is abstracted.
    2. <b><u>View</u></b> contains the UI of your app. Most often it’s implemented as an Activity or Fragment. View informs ViewModel of user interactions and displays results received from the ViewModel. View should be lightweight and contain zero to very little business logic.
    3. <b><u>ViewModel</u></b> serves as a bridge between your View and Model. It works with the Model to get and save the data. The View observes and reacts to the data changes exposed by the ViewModel.
 
 Here is a typical high-level MVVM app architecture:
 
 <img src="TodoImage/MVVM.png" width="360" height="360">
-
 
 ## License
 Copyright 2021 Pradip, Inc.
