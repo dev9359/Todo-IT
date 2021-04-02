@@ -29,7 +29,7 @@ Forget Paasword          |  Rotate the Task
 
 # Documentation
 
-<b>Android Architecture components</b> are a collection of libraries that help you design robust, testable, and maintainable apps with more power over lifecycle management and data persistence. User need to login first to entered into application and all data were shows for all user. In future work, only user can see their data and other entry user can't able to see other user data.
+<b>Android Architecture Components</b> are a series of libraries that help you build more scalable, testable, and maintainable applications by allowing you more leverage over data persistence and lifecycle management. To access the program, users must first log in, and all data is displayed for all users. In the future, only the user will be able to display their data, and all entry users will not be able to see the data of other users.
 
 # MVVM
 Model–view–viewmodel (MVVM) is a software architectural pattern that facilitates the separation of the development of the graphical user interface (the view) be it via a markup language or GUI code from the development of the business logic or back-end logic (the model) so that the view is not dependent on any specific model platform. The view model of MVVM is a value converter,meaning the view model is responsible for exposing (converting) the data objects from the model in such a way that objects are easily managed and presented. In this respect, the view model is more model than view, and handles most if not all of the view's display logic.The view model may implement a mediator pattern, organizing access to the back-end logic around the set of use cases supported by the view.
